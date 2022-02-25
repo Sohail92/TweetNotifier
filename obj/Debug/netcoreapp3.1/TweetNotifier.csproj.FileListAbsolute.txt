@@ -1,0 +1,14 @@
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\obj\Debug\netcoreapp3.1\TweetNotifier.AssemblyInfoInputs.cache
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\obj\Debug\netcoreapp3.1\TweetNotifier.AssemblyInfo.cs
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\obj\Debug\netcoreapp3.1\TweetNotifier.csproj.CoreCompileInputs.cache
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Debug\netcoreapp3.1\TweetNotifier.deps.json
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Debug\netcoreapp3.1\TweetNotifier.runtimeconfig.json
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Debug\netcoreapp3.1\TweetNotifier.runtimeconfig.dev.json
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Debug\netcoreapp3.1\TweetNotifier.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Debug\netcoreapp3.1\TweetNotifier.pdb
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\obj\Debug\netcoreapp3.1\TweetNotifier.csproj.CopyComplete
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\obj\Debug\netcoreapp3.1\TweetNotifier.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\obj\Debug\netcoreapp3.1\TweetNotifier.pdb
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\obj\Debug\netcoreapp3.1\TweetNotifier.genruntimeconfig.cache

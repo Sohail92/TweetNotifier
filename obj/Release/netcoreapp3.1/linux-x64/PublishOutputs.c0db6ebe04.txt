@@ -1,0 +1,8 @@
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\TweetNotifier.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\TweetNotifier.deps.json
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\TweetNotifier.runtimeconfig.json
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\TweetNotifier.pdb
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Projects\_PDP and Dojo\TweetNotifier\TweetNotifier\bin\Release\netcoreapp3.1\publish\AWSSDK.SimpleNotificationService.dll
